@@ -1,2 +1,2 @@
 # helpdog
-project have objective of help animals of street , in special, dogs of street.
+project has aimed to help homeless animals, especially the stray dogs.
