@@ -1,5 +1,5 @@
-<footer>
+    <footer>
 
-Site: HelpDog
-
-</footer>
+    </footer>
+  </body>
+</html>
